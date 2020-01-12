@@ -3,6 +3,8 @@ Servlets&amp;JSP project ( managment of a to do list )
 
 School project
 
+IDE : Eclipse photon
+
 Description
 :
 
